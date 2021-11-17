@@ -1,0 +1,27 @@
+body {
+    width: 1140px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+main img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
